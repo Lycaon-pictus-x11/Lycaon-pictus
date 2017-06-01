@@ -1,6 +1,11 @@
 # Lycaon-pictus
 -----
 
+![splash.png](https://bitbucket.org/repo/ngkxdKb/images/944055245-splash.png)
+
+
+-----
+
 Hybrid, x11, until block 100,000. 
 
 Pure POS from that point.
@@ -39,6 +44,11 @@ Taking a wild guess:
 # Proof of Stake:
 
 Interest is 10%, with no maximum stakng age, and a minimum staking age of 1 hour.
+
+-----
+
+![lyc-wallet.JPG](https://bitbucket.org/repo/ngkxdKb/images/630628312-lyc-wallet.JPG)
+
 
 -----
 
@@ -100,3 +110,7 @@ Lycaon pictus is a social animal, living in packs with differing hierarchies of 
 The species is a specialised hunter of antelopes, which it catches by chasing them to exhaustion.
 
 http://lycaon.info
+
+-----
+
+![wallet_bgcoin.png](https://bitbucket.org/repo/ngkxdKb/images/2441636712-wallet_bgcoin.png)
