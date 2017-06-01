@@ -52,7 +52,7 @@ Interest is 10%, with no maximum stakng age, and a minimum staking age of 1 hour
 
 -----
 
-# Connecting to the Licaon-pictus Network
+# Connecting to the Lycaon-pictus Network
 
 - rpcport=4854
 - port=4853
