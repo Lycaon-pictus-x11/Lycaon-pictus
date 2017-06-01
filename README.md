@@ -53,7 +53,7 @@ Interest is 10%, with no maximum stakng age, and a minimum staking age of 1 hour
 
 Block spacing: 60 seconds
 
-Difficulty adjustent: 20 blocks
+Difficulty adjustment: 20 blocks
 
 20 mining confirmations
 
@@ -63,7 +63,7 @@ Ticker: LYC (how cute)
 
 Explorer: http://explorer.lycaon.info:3001
 
-Home Page: http://explorer.lycaon.info
+Home Page: http://lycaon.info
 
 -----
 
