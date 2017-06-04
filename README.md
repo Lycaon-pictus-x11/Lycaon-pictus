@@ -3,6 +3,10 @@
 
 Wallet
 
+https://github.com/Lycaon-pictus-x11/Lycaon-pictus-qt
+
+or
+
 https://mega.nz/#!JwIGlbIY!8p_yyOsYo3NWci5J7kZBYaDu83bx-9PPzW7IFRO8-nM
 
 -----
