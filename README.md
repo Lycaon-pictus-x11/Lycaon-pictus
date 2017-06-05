@@ -11,6 +11,15 @@ https://mega.nz/#!JwIGlbIY!8p_yyOsYo3NWci5J7kZBYaDu83bx-9PPzW7IFRO8-nM
 
 -----
 
+Exchanges
+
+https://coinsmarkets.com
+
+
+https://novaexchange.com
+
+-----
+
 ![splash.png](https://bitbucket.org/repo/ngkxdKb/images/944055245-splash.png)
 
 
