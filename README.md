@@ -1,4 +1,4 @@
-# Lycaon-pictus
+# Lycaon-pictus: initially Hybrid, pure PoS at height 100,000
 -----
 
 Wallet
