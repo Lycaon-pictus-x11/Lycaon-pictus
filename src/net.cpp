@@ -1146,6 +1146,14 @@ static const char *strDNSSeed[][2] = {
     {"node4.lycaon.info", "node4.lycaon.info"},
     {"node5.lycaon.info", "node5.lycaon.info"},
     {"node6.lycaon.info", "node6.lycaon.info"},
+    {"94.23.217.166", "94.23.217.166"},
+    {"45.76.191.103", "45.76.191.103"},
+    {"138.197.71.147", "138.197.71.147"},
+    {"45.76.47.47", "45.76.47.47"},
+    {"138.197.63.240", "138.197.63.240"},
+    {"188.166.200.98", "188.166.200.98"},
+    {"178.62.254.91", "178.62.254.91"},
+        
 };
 
 void ThreadDNSAddressSeed(void* parg)
