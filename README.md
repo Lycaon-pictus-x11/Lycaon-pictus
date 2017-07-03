@@ -42,7 +42,7 @@ Proof of Stake starts at block 1.
 - 800 < 70000) 8000000
 - 850 < 80000) 8500000
 - 900 < 90000) 9000000
-- 1000 < 10000) 10000000
+- 1000 < 100000) 10000000
 
 = 73,000,000 (but only in logically possible terms)
 
