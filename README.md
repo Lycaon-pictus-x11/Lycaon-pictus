@@ -90,29 +90,12 @@ Ticker: LYC (how cute)
 
 Explorer: http://explorer.lycaon.info
 
-(I have taken the Iquidus explorer down as it just kept lagging, I suspect that Ineed etraa RAM to keep up)
+(I have taken the Iquidus explorer down as it just kept lagging, I suspect that I need extra RAM to keep up)
 
 Home Page: http://lycaon.info
 
 -----
 
-# Addnodes
-
-You should connect automatically, but if you want extra nodes these are reliable and I have used them in the Lycaon-pictus.conf example below.
-
-addnode=94.23.217.166<br>
-addnode=45.76.191.103<br>
-addnode=138.197.71.147<br>
-addnode=45.76.47.47<br>
-addnode=138.197.63.240<br>
-addnode=188.166.200.98<br>
-addnode=178.62.254.91
-
-You can also check: http://explorer.lycaon.info:3001/network
-
-Currently, some of these nodes are OVH, dynamic dns nodes, which change quickly. So if you are an "addnode fan" it is worth checking every few days to keep up to date.
-
------
 
 # Typical wallet Lycaon-pictus.conf
 
@@ -123,14 +106,9 @@ listen=1<br>
 daemon=1<br>
 rpcport=4854<br>
 port=4853<br>
-addnode=94.23.217.166<br>
-addnode=45.76.191.103<br>
-addnode=138.197.71.147<br>
-addnode=45.76.47.47<br>
-addnode=138.197.63.240<br>
-addnode=188.166.200.98<br>
-addnode=178.62.254.91
-
+addnode=<br>
+addnode=<br>
+addnode=
 -----
 
 # Premine: 
