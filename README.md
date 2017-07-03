@@ -88,7 +88,9 @@ Ticker: LYC (how cute)
 
 -----
 
-Explorer: http://explorer.lycaon.info:3001
+Explorer: http://explorer.lycaon.info
+
+(I have taken the Iquidus explorer down as it just kept lagging, I suspect that Ineed etraa RAM to keep up)
 
 Home Page: http://lycaon.info
 
